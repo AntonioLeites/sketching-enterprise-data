@@ -42,7 +42,7 @@ The repository is organized in three conceptual layers, which roughly correspond
 
 Didactic notebooks introducing each structure with small, traceable examples that can be reproduced by hand, followed by scale-up experiments on synthetic data.
 
-- `01-count-min-sketch-basics.ipynb` — the classic CMS for frequency queries; companion to the [LinkedIn article on CMS](#).
+- `01-count-min-sketch-basics.ipynb` — the classic CMS for frequency queries; companion to the [https://www.linkedin.com/pulse/how-count-things-you-cant-afford-remember-antonio-leites-4ksce/](#).
 - *(planned)* `02-hyperloglog-basics.ipynb` — counting distinct items.
 - *(planned)* `03-bloom-filters-basics.ipynb` — set membership.
 - *(planned)* `04-space-saving-topk.ipynb` — tracking top-K without full counts.
@@ -102,5 +102,10 @@ Feedback, corrections and suggestions are welcome via issues or direct message o
 
 ---
 
-*License: MIT. Use freely, attribute when useful.*
+## License
+
+- **Code** (Python in notebooks, scripts): MIT License — see [LICENSE](LICENSE)
+- **Content** (explanations, diagrams, written material): Creative Commons Attribution 4.0 International (CC-BY-4.0) — see [LICENSE-content.md](LICENSE-content.md)
+
+Use freely. When reusing the content in publications, courses, or articles, please attribute to Antonio Leites with a link to this repository.
 

@@ -1,12 +1,3 @@
----
-
-## License
-
-- **Code** (Python in notebooks, scripts): MIT License — see [LICENSE](LICENSE)
-- **Content** (explanations, diagrams, written material): Creative Commons Attribution 4.0 International (CC-BY-4.0) — see [LICENSE-content.md](LICENSE-content.md)
-
-Use freely. When reusing the content in publications, courses, or articles, please attribute to Antonio Leites with a link to this repository.
-
 # Content License — Creative Commons Attribution 4.0 International (CC-BY-4.0)
 
 The **written content** of this repository — explanations, diagrams, narrative text in notebooks, README content, and any other non-code material — is licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0).
@@ -53,7 +44,6 @@ When in doubt about whether a specific element is code or content, the more perm
 
 A suggested attribution format:
 
-> Content from Antonio Leites, *sketching-enterprise-data*, [https://github.com/AntonioLeites/sketching-enterprise-data.git], licensed under CC-BY-4.0.
+> Content from Antonio Leites, *sketching-enterprise-data*, [repository URL], licensed under CC-BY-4.0.
 
 For academic citations, please use the format appropriate to your venue and include the repository URL and access date.
-
