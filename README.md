@@ -96,7 +96,7 @@ Broader context on streaming and sketching:
 
 ## About
 
-This is a personal repository maintained by **Antonio Leites**, SAP Practice Lead at Sulzer España. The content here reflects personal exploration and does not represent Sulzer's official positions or product offerings.
+This is a personal repository maintained by **Antonio Leites**. The content here reflects personal exploration and does not represent official positions or product offerings.
 
 Feedback, corrections and suggestions are welcome via issues or direct message on [LinkedIn](https://www.linkedin.com/in/antonioleites/).
 
